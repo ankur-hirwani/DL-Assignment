@@ -1,0 +1,10 @@
+Please follow the following steps to achieve Data Augmentation : 
+
+1. Get the the data and store it the 'main' or 'root' folder. I have used the 'leaf.jpg' as the data.
+2. Provide the reference to the data in DataAug.ipynb file as specified in the code.
+3. Download and install the following dependencies : 
+   a. Tensorflow
+   b. Keras
+   c. PIL
+4. Run the code using Jupyter Notebook or any other ide.
+5. The final result will be available in the AugData folder of the directory. 
